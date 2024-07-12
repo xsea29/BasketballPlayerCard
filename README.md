@@ -6,7 +6,6 @@ A simple React application that displays a basketball player's information in a 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 
 ## Installation
 
@@ -30,19 +29,3 @@ To get started with the project, follow these steps:
    **To run the project locally, use the following command:**
 
    npm start
-   
-## Project Structure
-
-   basketballplayercard/
-├── src/
-│   ├── components/
-│   │   ├── BasketballPlayerCard.js
-│   │   └── BasketballPlayerCard.css
-│   ├── images/
-│   │   ├── lebron-james.png
-│   │   └── nba-background.jpg
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
-
