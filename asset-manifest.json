@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BasketballPlayerCard/static/css/main.a4731769.css",
+    "main.js": "/BasketballPlayerCard/static/js/main.05d74dea.js",
+    "static/media/lebronJames-image.png": "/BasketballPlayerCard/static/media/lebronJames-image.276b8d3a7db757ad04c6.png",
+    "static/media/nba-crowd.jpeg": "/BasketballPlayerCard/static/media/nba-crowd.2b5b786898b9c7f2659d.jpeg",
+    "index.html": "/BasketballPlayerCard/index.html",
+    "main.a4731769.css.map": "/BasketballPlayerCard/static/css/main.a4731769.css.map",
+    "main.05d74dea.js.map": "/BasketballPlayerCard/static/js/main.05d74dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4731769.css",
+    "static/js/main.05d74dea.js"
+  ]
+}
